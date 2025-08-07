@@ -3,17 +3,17 @@ Notes and Keywords - 07/08/2025
 
 # Keywords
   -Internet <br>
-  -Intranet
-  -LAN (Local Area Network)
-  -MAN (Metropolitan Area Network)
-  -WAN (Wide Area Network)
-  -IP (Internet Protocol)
-  -Private IP
-  -Public IP
-  -VPN (Virtual Private Network)
-  -ISP (Internet Service Provider)
-  -DNS (Domain Name System)
-  -Local Host
+  -Intranet <br>
+  -LAN (Local Area Network) <br>
+  -MAN (Metropolitan Area Network) <br>
+  -WAN (Wide Area Network) <br>
+  -IP (Internet Protocol) <br>
+  -Private IP <br>
+  -Public IP <br>
+  -VPN (Virtual Private Network) <br>
+  -ISP (Internet Service Provider) <br>
+  -DNS (Domain Name System) <br>
+  -Local Host <br>
   -OSI Models (Open Systems Interconnection)
 
 # Notes

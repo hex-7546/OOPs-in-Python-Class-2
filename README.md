@@ -17,7 +17,7 @@ Notes and Keywords - 07/08/2025
 -OSI Models (Open Systems Interconnection)
 
 # Notes
-Internet: 
+<b> Internet: </b>
 -Inter means between two or more different entities and net means connection or web. So a connection between two or more computer systems or devices (smartphones, desktops, data center etc) is known as the Internet. Any device accessing the internet uses a public IP address that is assigned to it
 
 Intranet:

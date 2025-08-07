@@ -14,7 +14,9 @@ Notes and Keywords - 07/08/2025
   -ISP (Internet Service Provider) <br>
   -DNS (Domain Name System) <br>
   -Local Host <br>
-  -OSI Models (Open Systems Interconnection)
+  -OSI Models (Open Systems Interconnection) <br>
+  -MAC Address <br>
+  -NIC (Network Interface Card)
 
 # Notes
 <b> Internet: </b>
@@ -30,7 +32,7 @@ Local area network is a network of devices within a small area such as schools, 
 Wide area network is a network of devices within very large geographical area such as states and countries.
 
 <b>IP: </b>
-Internet protocol is a set of instructions/standards/rules that is followed by the internet.
+Internet protocol is a set of instructions/standards/rules that is followed by the internet. IP address is the address given to particular network so that it can communicate with other devices via the internet. It is of two types IPv4 and IPv6. IPv6 is more modern and newer while IPv4 is the traditional way of giving addresses. To address the limitations of IPv4 we are switching towards IPv6
 
 <b>ISP: </b>
 Internet service provider is as name says provides internet. Examples: Reliance JIO and Airtel
@@ -40,3 +42,6 @@ Its a type of an IP address which starts from "127." and remains the same for al
 
 <b>OSI: </b>
 It is the building block of internet. It consists of seven layers from physical layer all the way to application layer
+
+<b>Mac Address: </b>
+Address given to a specific device which signifies various information related to it is known as mac address

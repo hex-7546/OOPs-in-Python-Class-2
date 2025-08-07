@@ -2,10 +2,10 @@
 Notes and Keywords - 07/08/2025
 
 # Keywords
--Internet
--Intranet
--LAN (Local Area Network)
--MAN (Metropolitan Area Network)
+  -Internet
+  -Intranet
+  -LAN (Local Area Network)
+  -MAN (Metropolitan Area Network)
 -WAN (Wide Area Network)
 -IP (Internet Protocol)
 -Private IP

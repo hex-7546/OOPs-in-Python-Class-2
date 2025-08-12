@@ -3,6 +3,13 @@ Notes and Keywords - 07/08/2025
 
 # Keywords
 ## Computation
+Closed Source:
+  - x86 - Intel and AMD
+  - ARM
+Open Source:
+  - RISC V
+
+## Networking
   -Internet <br>
   -Intranet <br>
   -LAN (Local Area Network) <br>

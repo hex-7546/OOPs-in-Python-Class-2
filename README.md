@@ -2,7 +2,7 @@
 Notes and Keywords - 07/08/2025
 
 # Keywords
-## Computation
+## ⚙️ Computation
 Closed Source:
   - x86 - Intel and AMD
   - ARM
@@ -10,25 +10,57 @@ Closed Source:
 Open Source:
   - RISC V
 
-## Networking
-  -Internet <br>
-  -Intranet <br>
-  -LAN (Local Area Network) <br>
-  -MAN (Metropolitan Area Network) <br>
-  -WAN (Wide Area Network) <br>
-  -IP (Internet Protocol) <br>
-  -Private IP <br>
-  -Public IP <br>
-  -VPN (Virtual Private Network) <br>
-  -ISP (Internet Service Provider) <br>
-  -DNS (Domain Name System) <br>
-  -Local Host <br>
-  -OSI Models (Open Systems Interconnection) <br>
-  -MAC Address <br>
-  -NIC (Network Interface Card)
-  -SmartNIC
-  -TSMC (Taiwan Semiconductor Manufacturing Company)
-  -ASML
+Processing Units:
+  - CPU (Central Processing Unit)
+  - GPU (Graphics Processing Unit)
+  - TPU (Tensor Processing Unit)
+  - DPU (Data Processing Unit)
+  - QPU (Quantum Processing Unit)
+
+## 🌐 Networking
+  - Internet <br>
+  - Intranet <br>
+  - LAN (Local Area Network) <br>
+  - MAN (Metropolitan Area Network) <br>
+  - WAN (Wide Area Network) <br>
+  - IP (Internet Protocol) <br>
+  - Private IP <br>
+  - Public IP <br>
+  - VPN (Virtual Private Network) <br>
+  - ISP (Internet Service Provider) <br>
+  - DNS (Domain Name System) <br>
+  - Local Host <br>
+  - OSI Models (Open Systems Interconnection) <br>
+  - MAC Address <br>
+  - NIC (Network Interface Card)
+  - SmartNIC
+  - DPDK (Data Plane Development Kit)
+  - SR IOV (Single Root I/O Virtualization)
+  - TSMC (Taiwan Semiconductor Manufacturing Company)
+  - ASML (Photolithography equipment manufacturing company)
+
+## 💾 Storage
+Primary Storage (Volatile storage):
+  - RAM (Random Access Memory)
+  - ROM (Read Only Memory)
+
+Secondary Storage (Non Volatile storage):
+  - HDD (Hard Disk Drive)
+  - SSD (Solid State Drive)
+  - Optical Disk (Eg: CD, DVD etc.)
+  - USB Flash Drive
+
+Tertiary Storage:
+  - Cloud Storage
+
+## Operating System
+Closed Source:
+  - Windows (Microsoft)
+  - Mac (Apple)
+
+Open Source:
+  - Linux (Linux Foundation) <br>
+  Linux is actually a kernel and not a operating system. Several operating system has been made on it. The <b>Debian</b> family is the most popular one and in that too <b>Ubuntu</b> is particularly beginner friendly. You can also try Arch Linux if you dare 💀
 
 # Notes
 <b> Internet: </b>

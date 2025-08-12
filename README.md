@@ -1,7 +1,8 @@
-# OOPs-in-Python-Class-2
+# OOPs-in-Python
 Notes and Keywords - 07/08/2025
 
 # Keywords
+## Computation
   -Internet <br>
   -Intranet <br>
   -LAN (Local Area Network) <br>
@@ -17,6 +18,9 @@ Notes and Keywords - 07/08/2025
   -OSI Models (Open Systems Interconnection) <br>
   -MAC Address <br>
   -NIC (Network Interface Card)
+  -SmartNIC
+  -TSMC (Taiwan Semiconductor Manufacturing Company)
+  -ASML
 
 # Notes
 <b> Internet: </b>
@@ -45,3 +49,7 @@ It is the building block of internet. It consists of seven layers from physical 
 
 <b>Mac Address: </b>
 Address given to a specific device which signifies various information related to it is known as mac address
+
+<b>ASML </b>
+A Dutch company that manufactures and develop special machines which are used to produce integrated circuits
+

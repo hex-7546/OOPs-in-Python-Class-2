@@ -5,7 +5,7 @@ Notes and Keywords - 07/08/2025
 ## Computation
 Closed Source:
   - x86 - Intel and AMD
-  - ARM
+  - ARM <br>
 Open Source:
   - RISC V
 

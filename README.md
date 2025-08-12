@@ -62,6 +62,9 @@ Open Source:
   - Linux (Linux Foundation) <br>
   Linux is actually a kernel and not a operating system. Several operating system has been made on it. The <b>Debian</b> family is the most popular one and in that too <b>Ubuntu</b> is particularly beginner friendly. You can also try Arch Linux if you dare 💀
 
+## Bare Metal System
+A computer system that runs the processes directly on the hardware without the help of any operating system. It speeds up the process and is much more efficient and optimized compared to other systems with OS running on them
+
 # Notes
 <b> Internet: </b>
 -Inter means between two or more different entities and net means connection or web. So a connection between two or more computer systems or devices (smartphones, desktops, data center etc) is known as the Internet. Any device accessing the internet uses a public IP address that is assigned to it

@@ -32,7 +32,7 @@ Processing Units:
   - DNS (Domain Name System) <br>
   - Local Host <br>
   - OSI Models (Open Systems Interconnection) <br>
-  - MAC Address <br>
+  - <a href="#mac">MAC Address</a> <br>
   - NIC (Network Interface Card)
   - SmartNIC
   - DPDK (Data Plane Development Kit)
@@ -92,7 +92,7 @@ It is the building block of internet. It determines how different networking sys
   Top most layer of the model where end-user apps and services operate which includes web browsing etc.
 
 
-<b>Mac Address: </b>
+## <p id="mac">MAC Address </p>
 Address given to a specific device which signifies various information related to it is known as mac address
 
 

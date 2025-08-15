@@ -24,14 +24,14 @@ Processing Units:
   - LAN (Local Area Network) <br>
   - MAN (Metropolitan Area Network) <br>
   - WAN (Wide Area Network) <br>
-  - IP (Internet Protocol) <br>
+  - <a href="#ip">IP (Internet Protocol) </a><br>
   - Private IP <br>
   - Public IP <br>
   - VPN (Virtual Private Network) <br>
   - ISP (Internet Service Provider) <br>
   - DNS (Domain Name System) <br>
   - Local Host <br>
-  - OSI Models (Open Systems Interconnection) <br>
+  - <a href="#osi">OSI Models (Open Systems Interconnection) </a><br>
   - <a href="#mac">MAC Address</a> <br>
   - NIC (Network Interface Card)
   - SmartNIC
@@ -70,10 +70,10 @@ A computer system that runs the processes directly on the hardware without the h
 
 # Notes
 
-## IP
+## <p id="ip">IP</p>
 Internet protocol is a set of instructions/standards/rules that is followed by the internet. IP address is the address given to particular network so that it can communicate with other devices via the internet. It is of two types IPv4 and IPv6. IPv6 is more modern and newer while IPv4 is the traditional way of giving addresses. To address the limitations of IPv4 we are switching towards IPv6
 
-## OSI (Open System Interconnection) Model
+## <p id="osi">OSI (Open System Interconnection) Model </p>
 It is the building block of internet. It determines how different networking systems communicate with each other. It consists of seven layers.
 <img width="771" height="493" alt="image" src="https://github.com/user-attachments/assets/eea89afc-4e4b-4fca-93e5-7913fbfd76ab" />
 

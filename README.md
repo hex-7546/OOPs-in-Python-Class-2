@@ -39,6 +39,7 @@ Processing Units:
   - SR IOV (Single Root I/O Virtualization)
   - TSMC (Taiwan Semiconductor Manufacturing Company)
   - ASML (Photolithography equipment manufacturing company)
+  - SSL (Secure Sockets Layer)
 
 ## 💾 Storage
 Primary Storage (Volatile storage):
@@ -73,7 +74,22 @@ Internet protocol is a set of instructions/standards/rules that is followed by t
 
 ## OSI (Open System Interconnection) Model
 It is the building block of internet. It determines how different networking systems communicate with each other. It consists of seven layers.
+<img width="771" height="493" alt="image" src="https://github.com/user-attachments/assets/eea89afc-4e4b-4fca-93e5-7913fbfd76ab" />
+
 - L1 - Physical Layer
+  Deals with physical connection with devices. Includes cables, switches and electrical signals that travel over them
+- L2 - Data Link Layer
+  Deals with data transfer over the physical layer. It is here that the NIC lies which facilitates the communication between two or more devices
+- L3 - Network Layer
+  This layer deals with routing data packets across different networks. Determines the best path for the data to travel from source to destination. VPN's (Virtual Private Network) operates in this layer which routes the device's connection through its own servers before it reaches the destination. It thus allows masking of IP Address
+- L4 - Transport Layer
+  This layers ensures data is transferred securely and relaibly. It breaks down large data packets into smaller ones for transmission and then reassembles them at the destination. The SSL works here which basically encrypts the link between the server and the client ensuring the data transmitted remains private and secure
+- L5 - Session Layer
+  This layer enables, manages and terminates connections between applications
+- L6 - Presentation Layer
+  this layer translates data between application layer and the network
+- L7 - Application Layer
+  Top most layer of the model where end-user apps and services operate which includes web browsing etc.
 
 
 <b>Mac Address: </b>

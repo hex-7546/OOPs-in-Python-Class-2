@@ -40,6 +40,7 @@ Processing Units:
   - TSMC (Taiwan Semiconductor Manufacturing Company)
   - ASML (Photolithography equipment manufacturing company)
   - SSL (Secure Sockets Layer)
+  - <a href="#port">Port Address</a>
 
 ## 💾 Storage
 Primary Storage (Volatile storage):
@@ -93,6 +94,14 @@ It is the building block of internet. It determines how different networking sys
 
 
 ## <p id="mac">MAC Address </p>
-Address given to a specific device which signifies various information related to it is known as mac address
+MAC address is a 48-bit address given to NIC which ensures smoother communication between machines and are essential for protocols in the Data Link Layer
+
+## <p id="port">Port Address</p>
+They are specific address for different applications or services on a device. It ensures that data which is sent over the internet reaches the correct place without getting mixed up with data meant for other programs.
+They are of 16 bits so 2^16, there are a total of 65535 ports of which 0 - 1023 are well known ports reserved for specific tasks on the device, 1023 - 49151 are registered ports and 49151 - 65535 are dynamic or private ports
+
+<img width="1024" height="1536" alt="port, ip, mac address infographics" src="https://github.com/user-attachments/assets/dafc0aaa-ba49-4639-b283-b60257cbfd60" />
 
 
+## Standard Essential Protocols (SEP)
+They are patents that are essential to a standard which means that if a company wants to implement a standard they have no way except to use the patented technology. These are crucial in industries where interoperability is necessary such as telecom, computing and consumer elcetronics. Eg: SEP of 4G LTE is held by Qualcomm
